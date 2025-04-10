@@ -1,0 +1,10 @@
+{
+    "blobs": [
+      { "name": "logs-jan.csv", "tier": "Cool", "accessFrequency": 25 },
+      { "name": "image1.png", "tier": "Hot", "accessFrequency": 48 },
+      { "name": "archive-doc.zip", "tier": "Archive", "accessFrequency": 2 },
+      { "name": "backup.q1.json", "tier": "Cool", "accessFrequency": 10 },
+      { "name": "invoice.pdf", "tier": "Hot", "accessFrequency": 18 },
+      { "name": "video.mp4", "tier": "Archive", "accessFrequency": 4 }
+    ]
+  }
